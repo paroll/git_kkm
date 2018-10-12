@@ -1,0 +1,8 @@
+﻿  kkkhost_Dll.cpp
+kkkhost_Dll.cpp(121): warning C4101: 'v13' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  3 of 12 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  kkkhost_Dll.vcxproj -> C:\kkm_virus\virus_exe\kkkhost_Dll\Release\kkkhost_Dll.dll
